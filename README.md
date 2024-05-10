@@ -1,10 +1,11 @@
-👋 Hello, I am Blessing Nwabuba.
+#👋 Hello, I am Blessing Nwabuba.
+
 A Strategy Analyst/Data Analyst who is passionate about leveraging data-driven insights to inform strategic decision-making and drive business growth. With a blend of analytical skills, domain expertise, and a curious mindset, I thrive in translating complex datasets into actionable recommendations.
 
-💼 Experience:
+## 💼 Experience:
 Strategy/Data Analyst: As a Strategy/Data Analyst at Primera Microfinance Bank, I provide data-driven insights which facilitates the development and execution of strategic initiatives to drive business growth and optimize operational efficiency. With over 3 years of experience in this role, I have used advanced analytics techniques and tools like Excel, SQL, Python and Power BI to interpret complex data sets and generate actionable insights for key stakeholders, contributing to informed decision-making.
 
-🚀 Skills:
+## 🚀 Skills:
 Data Analysis 📊
 Statistical Modeling 📈
 Programming Languages: Python, SQL 🐍💻
@@ -12,15 +13,15 @@ Data Visualization: Microsoft Power BI, Matplotlib, Seaborn 📊
 Business Intelligence 📈🔍
 Project Management 📅🚀
 
-📊 Projects:
+## 📊 Projects:
 Strategy Analysis projects: Here's a sneak peek into some of the projects I have done as a strategy analyst: https://bit.ly/4bbYJOQ
 Data Analysis projects: I'm sure you won't mind looking at my first solo python project, right? 😄 https://github.com/bnwabuba/taxi
 
-🌱🔭 Learning & Development:
+## 🌱🔭 Learning & Development:
 Trust me when I say that I love learning new things 😄 
 I'm currently honing skills in Data Visualization with Tableau. Seeing that I only visualize my data in Excel, Microsoft Power BI, Matplotlib and Seaborn, I decided to learn Tableau. You know, a girl's got to be an all-rounder 😏.  
 
-🎓 Education:
+## 🎓 Education:
 I hold a Bachelor of Science degree in Computer Science from the National Open University of Nigeria, 2019
 A little birdie told me to get a Master of Science degree in Data Science and I think it's something to ponder on.
 Did I also mention that I have a couple of relevant certificates and certification? Well, here's a list:
@@ -35,7 +36,7 @@ Did I also mention that I have a couple of relevant certificates and certificati
 👯 I am looking to collaborate on innovative data analytics projects that drive strategic insights and business growth.
 ⚡✨ Fun fact: I am a passionate foodie who loves exploring new recipes from different cultures while traveling the world! 🍲✈️ 
 
-📫 Let's Connect:
+## 📫 Let's Connect:
 LinkedIn: https://www.linkedin.com/in/blessing-nwabuba
 Email: blessingnwabuba@gmail.com
 Portfolio: https://github.com/bnwabuba
