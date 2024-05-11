@@ -37,6 +37,6 @@ Did I also mention that I have a couple of relevant certificates and certificati
 ⚡✨ Fun fact: I am a passionate foodie who loves exploring new recipes from different cultures while traveling the world! 🍲✈️ 
 
 ## 📫 Let's Connect:
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/blessing-nwabuba)
-Email: [Email](blessingnwabuba@gmail.com)
-Portfolio: [Portfolio](https://github.com/bnwabuba)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/blessing-nwabuba) <br>
+Email: [Email](blessingnwabuba@gmail.com) <br>
+Portfolio: [Portfolio](https://github.com/bnwabuba) <br>
