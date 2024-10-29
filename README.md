@@ -3,7 +3,7 @@
 A Strategy Analyst/Data Analyst who is passionate about leveraging data-driven insights to inform strategic decision-making and drive business growth. With a blend of analytical skills, domain expertise, and a curious mindset, I thrive in translating complex datasets into actionable recommendations.
 
 ## 💼 Experience:
-Strategy/Data Analyst: As a Strategy/Data Analyst at Primera Microfinance Bank, I provide data-driven insights which facilitates the development and execution of strategic initiatives to drive business growth and optimize operational efficiency. With over 3 years of experience in this role, I have used advanced analytics techniques and tools like Excel, SQL, Python and Power BI to interpret complex data sets and generate actionable insights for key stakeholders, contributing to informed decision-making.
+Strategy/Data Analyst: As a Strategy/Data Analyst at Koins Microfinance Bank, I provide data-driven insights which facilitates the development and execution of strategic initiatives to drive business growth and optimize operational efficiency. With over 3 years of experience in this role, I have used advanced analytics techniques and tools like Excel, SQL, Python and Power BI to interpret complex data sets and generate actionable insights for key stakeholders, contributing to informed decision-making.
 
 ## 🚀 Skills:
 Data Analysis 📊 <br>
